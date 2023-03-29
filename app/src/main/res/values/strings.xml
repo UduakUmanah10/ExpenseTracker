@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ExpenseApp</string>
+    <string name="placeholder">please insert some notes</string>
+    <string name="select_a_color">Select a Color</string>
+    <string name="Done">Done</string>
+</resources>
